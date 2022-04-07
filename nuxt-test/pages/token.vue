@@ -1,0 +1,9 @@
+<template>
+<p>af71ac2cce5de90b4a1a760d7204cdf166d0eb95024c66eff05939971b051d52500f031a4e218e2815674f551e5f6850c9e8d357b3c49218d742724aef7ce6aa029a739db61b10bdbd17f46672c76fda376ed48822bda0cba3ada926816096558fca79a9f8071abf69fa829cc1211a6db43954336bffec082e38a7d488519b81</p>
+</template>
+
+<script>
+export default {
+  name: 'TokenPage',
+}
+</script>
